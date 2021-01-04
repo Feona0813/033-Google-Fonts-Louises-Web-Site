@@ -1,0 +1,33 @@
+img {
+    height: 300px;
+}
+h1{
+    font-family: 'Chilanka', cursive;
+}
+p{
+    font-family: 'Indie Flower', cursive;
+}
+li{
+    font-family: 'Permanent Marker', cursive;
+}
+h2{
+        font-family: 'Chilanka', cursive;
+}
+body{
+    background-color:pink;
+}
+img{
+    width:300px;
+}
+p{
+    color:cornflowerblue;
+}
+li{
+    color:darkcyan;
+}
+h1{
+    color:darkorchid;
+}
+h2{
+    color:deeppink;
+}
